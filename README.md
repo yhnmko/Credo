@@ -1,3 +1,7 @@
-# Core-3.1 - Login and Registration using Identity in ASP.NET Core 3.1
+Test Project for Credo
 
-For documentation and instructions check out  - https://www.freecodespot.com/blog/asp-net-core-identity/
+TODO's -
+  Add corresponding fields in DB (userID, firstName, lastName)
+  update loan type to be Enum and add new field for Primary Key instead of Email
+  
+  
